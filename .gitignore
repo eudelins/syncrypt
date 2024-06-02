@@ -1,5 +1,6 @@
-.pwd
+# Projects folders
 .backup
+.pwd
 venv
 
-Life/*.md
+# Obsidian notes folders
