@@ -1,5 +1,7 @@
 # Syncrypt
 
+A Python script to automatically synchronized your obsidian Notes (encrypted), using GitHub.
+
 ## System dependencies
 
 `7z`, `git` and `python3` must be installed on your machine (only tested with Python 3.11.9!).
