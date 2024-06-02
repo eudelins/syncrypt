@@ -1,6 +1,6 @@
 # Syncrypt
 
-A Python script to automatically synchronized your obsidian Notes (encrypted), using GitHub.
+A Python script to automatically synchronized your Obsidian notes (encrypted), using GitHub.
 
 ## System dependencies
 
